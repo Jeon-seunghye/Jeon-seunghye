@@ -24,7 +24,7 @@
     - T에게 팩폭맞으면 상처받는 쿠크다스 마인드
 
 <span style="color:yellow">**주의사항*<br></span>
-<span style="color:yellow">*친해지면 말이 너무 많아진다*</span>
+<span style="color:yellow">*친해지면 tmi가 너무 많아진다*</span>
 
 ## 6. 사용 언어
 
